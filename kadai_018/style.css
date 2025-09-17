@@ -47,7 +47,7 @@
 
 #bottom{
   width: 800px;
-  height: 300;
+  height: 300px;
   background-color: #87ceeb;
   margin: 0px auto;
 }
@@ -73,4 +73,5 @@
   background-color: #e5dcf0;
   position: relative;
   left: 400px;
+
 }
